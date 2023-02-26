@@ -1,5 +1,6 @@
-# DE_IVAExtension v1.0.2
-created by DemonEin
+# Attribution
+DE_IVAExtension originally created by DemonEin
+ASET IVA for Making History originally created by HonkHogan
 
 ## Features
 This mod adds interactive IVAs for all stock command pods using RasterPropMonitor and the ASET Props Pack. All pods have a similar design to maximise ease of use. In addition to the stock pods, there is an improved interior for ProbeControlRoom in the same style as the other interiors.
