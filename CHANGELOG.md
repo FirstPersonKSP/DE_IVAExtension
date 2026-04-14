@@ -13,9 +13,10 @@ For support please visit: https://discord.gg/vBDzZAq3AF.  All bug reports and su
 - ProbeControlRoom
 - Reviva
 
-## Unreleased
+## 1.2.1 - 2026-04-14
 
 - Added recovery beacon to mk1pod (thanks @andymac-2 )
+
 
 ## 1.2.0 - More decorations - 2023-05-12
 
