@@ -16,6 +16,7 @@ For support please visit: https://discord.gg/vBDzZAq3AF.  All bug reports and su
 ## Unreleased
 
 - Added recovery beacon to mk1pod (thanks @andymac-2 )
+- Restock+ is now fully supported when MakingHistory is not installed.  Note the IVA shells are still untextured and black, but the prop layouts will work.
 
 ## 1.2.0 - More decorations - 2023-05-12
 
